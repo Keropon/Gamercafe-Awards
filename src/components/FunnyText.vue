@@ -2,7 +2,6 @@
 import WelcomeItem from "./WelcomeItem.vue";
 import DocumentationIcon from "./icons/IconDocumentation.vue";
 
-
 /*
 export default class SplitText extends React.Component {
     render() {
